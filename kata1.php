@@ -1,4 +1,4 @@
-/*This code does not execute properly. Try to figure out why.*/
+//This code does not execute properly. Try to figure out why.
 
 function multiply($a, $b) {
   return a * b;
@@ -6,7 +6,7 @@ function multiply($a, $b) {
 
 //Test
 
-// PHPUnit Test Examples:
+//PHPUnit Test Examples:
 // TODO: Replace examples and use TDD development by writing your own tests
 class MyTestCases extends TestCase
 {
